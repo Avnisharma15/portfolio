@@ -40,7 +40,6 @@ A simple and responsive task management app using HTML, CSS, and JavaScript.
 **GitHub:** https://github.com/Avnisharma15
 
 ## 🌐 Live Portfolio
-Link will be added here after GitHub Pages deployment.
-
+(https://avnisharma15.github.io/portfolio/)
 
 ### ✨ Thank you for visiting my portfolio!
